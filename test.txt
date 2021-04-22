@@ -1,1 +1,4 @@
-test
+upload to server
+
+
+server git:https://tayqbvhi@foomix.com/plesk-git/foomix_test.git
