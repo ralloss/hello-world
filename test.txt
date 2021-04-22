@@ -2,3 +2,5 @@ upload to server
 
 
 server git:https://tayqbvhi@foomix.com/plesk-git/foomix_test.git
+
+github:   https://github.com/ralloss/hello-world.git
